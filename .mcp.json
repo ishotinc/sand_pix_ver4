@@ -1,0 +1,34 @@
+{
+  "mcpServers": {
+    "context7": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp"
+      ],
+      "env": {}
+    },
+    "sequential-thinking": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ],
+      "env": {}
+    },
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",
+        "--read-only",
+        "--project-ref=gtuxwfibkxebbspdthvv"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "sbp_e8a3069b2192e7794c8f094a0872745ac801dc56"
+      }
+    }
+  }
+}

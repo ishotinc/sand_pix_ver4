@@ -1,0 +1,257 @@
+{
+  "version": "1.0.0",
+  "images": [
+    {
+      "id": 1,
+      "title": "Friendly Tone",
+      "description": "\"Feel free to consult us♪\" \"Let's work hard together!\"",
+      "visual_hints": "Staff smiling photos, hand-drawn style icons, soft rounded corners, warm expressions",
+      "path": "/images/swipe/friendly-tone.jpg",
+      "scores": {
+        "warm_score": 1,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 1,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 1
+      }
+    },
+    {
+      "id": 2,
+      "title": "Professional Tone",
+      "description": "\"Reliable Partner\" \"Build a Future Together\"",
+      "visual_hints": "Business suits, handshakes, graphs and charts, clean lines, serious expressions",
+      "path": "/images/swipe/professional-tone.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 1,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 1,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 3,
+      "title": "Innovative Tone",
+      "description": "\"The Future Starts Here\" \"Change the World Together\"",
+      "visual_hints": "Abstract shapes, technology elements, futuristic design, AI imagery, dynamic patterns",
+      "path": "/images/swipe/innovative-tone.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 1,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 1,
+        "minimal_score": 0,
+        "energetic_score": 1,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 4,
+      "title": "Trustworthy Tone",
+      "description": "\"Since 1990\" \"Results Trusted by Thousands\"",
+      "visual_hints": "Award badges, certificates, testimonials, established dates, solid foundations",
+      "path": "/images/swipe/trustworthy-tone.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 1,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 1,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 5,
+      "title": "Warm Colors",
+      "description": "Orange, red, yellow-based color schemes",
+      "visual_hints": "Sunset gradients, autumn leaves, cozy interiors, fire elements",
+      "path": "/images/swipe/warm-colors.jpg",
+      "scores": {
+        "warm_score": 1,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 6,
+      "title": "Cool Colors",
+      "description": "Blue, green, purple-based color schemes",
+      "visual_hints": "Ocean waves, mountain landscapes, ice crystals, technology interfaces",
+      "path": "/images/swipe/cool-colors.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 1,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 7,
+      "title": "Monochrome",
+      "description": "Black, white, and gray color schemes",
+      "visual_hints": "Minimalist design, high contrast photography, clean typography",
+      "path": "/images/swipe/monochrome.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 1,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 1,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 8,
+      "title": "Vivid Colors",
+      "description": "Bright, saturated, eye-catching colors",
+      "visual_hints": "Neon signs, tropical fruits, festival decorations, pop art style",
+      "path": "/images/swipe/vivid-colors.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 1,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 1,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 9,
+      "title": "Pastel Colors",
+      "description": "Soft, muted, gentle color palettes",
+      "visual_hints": "Baby products, spring flowers, macarons, watercolor paintings",
+      "path": "/images/swipe/pastel-colors.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 1,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 1
+      }
+    },
+    {
+      "id": 10,
+      "title": "High Density Layout",
+      "description": "Information-rich, packed with content",
+      "visual_hints": "News portals, dashboards, e-commerce grids, multiple columns",
+      "path": "/images/swipe/high-density.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 11,
+      "title": "Asymmetric Layout",
+      "description": "Dynamic, off-balance, creative arrangements",
+      "visual_hints": "Magazine layouts, artistic compositions, diagonal elements, unexpected placements",
+      "path": "/images/swipe/asymmetric.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 1,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 0,
+        "approachable_score": 0
+      }
+    },
+    {
+      "id": 12,
+      "title": "Photo-Centric",
+      "description": "Large, high-quality photography as main focus",
+      "visual_hints": "Full-screen hero images, photo galleries, lifestyle photography, minimal text overlay",
+      "path": "/images/swipe/photo-centric.jpg",
+      "scores": {
+        "warm_score": 0,
+        "cool_score": 0,
+        "mono_score": 0,
+        "vivid_score": 0,
+        "friendly_score": 0,
+        "professional_score": 0,
+        "creative_score": 0,
+        "minimal_score": 0,
+        "energetic_score": 0,
+        "trustworthy_score": 0,
+        "luxurious_score": 1,
+        "approachable_score": 0
+      }
+    }
+  ]
+}
