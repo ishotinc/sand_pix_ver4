@@ -13,6 +13,9 @@
     "@supabase/auth-helpers-nextjs": "^0.10.0",
     "@supabase/ssr": "^0.6.1",
     "@supabase/supabase-js": "^2.52.0",
+    "@use-gesture/react": "^10.3.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.6",
     "next": "15.4.1",
     "react": "19.1.0",
     "react-dnd": "^16.0.1",
@@ -21,6 +24,7 @@
     "react-hook-form": "^7.60.0",
     "sharp": "^0.34.3",
     "stripe": "^18.3.0",
+    "tailwind-merge": "^3.3.1",
     "zustand": "^5.0.6"
   },
   "devDependencies": {
