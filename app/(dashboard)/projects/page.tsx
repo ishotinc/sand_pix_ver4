@@ -23,9 +23,11 @@ export default function ProjectsPage() {
           <p className="text-[var(--text-secondary)] mb-6">
             Your projects will appear here once you create them.
           </p>
-          <Button variant="gradient" size="lg">
-            Create New Project
-          </Button>
+          <Link href="/projects/new">
+            <Button variant="gradient" size="lg">
+              Create New Project
+            </Button>
+          </Link>
         </div>
       </div>
     </div>
